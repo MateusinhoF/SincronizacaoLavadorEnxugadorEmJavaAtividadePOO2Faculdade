@@ -1,0 +1,2 @@
+# SincronizacaoLavadorEnxugadorEmJavaAtividadePOO2Faculdade
+Atividade lavador enxugador em Java trabalho de produtor/consumidor
